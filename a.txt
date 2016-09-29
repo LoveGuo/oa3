@@ -3,3 +3,4 @@ conflict01
 local update01
 remote update01
 local update02
+remote update02
