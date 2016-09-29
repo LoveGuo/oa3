@@ -2,3 +2,4 @@ first gitHub
 conflict01
 local update01
 remote update01
+remote update02
